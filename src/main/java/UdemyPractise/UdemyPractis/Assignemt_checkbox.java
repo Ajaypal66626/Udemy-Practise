@@ -48,5 +48,6 @@ public class Assignemt_checkbox {
 	    int count =chk_count.size();
 		System.out.println("Check Box count is :" + count);
 		
+		driver.quit();
 	}
 }
