@@ -53,5 +53,4 @@ public class Locatorss {
      driver.findElement(By.xpath("//button[contains(@class,'submit')]")).click();
     
      }
-/////Checking Git 
 } 
