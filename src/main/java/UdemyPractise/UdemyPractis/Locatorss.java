@@ -50,7 +50,6 @@ public class Locatorss {
      driver.findElement(By.cssSelector("input[type*='pass']")).sendKeys("rahulshettyacademy");
 
      driver.findElement(By.id("chkboxOne")).click();
-Thread.sleep(2000);
      driver.findElement(By.xpath("//button[contains(@class,'submit')]")).click();
     
      }
