@@ -38,7 +38,7 @@ public class Parse_srtring_get_password {
 
     driver.findElement(By.xpath("//*[text()='Log Out']")).click();
 
-    driver.close();
+   // driver.close();
 
     }
 
